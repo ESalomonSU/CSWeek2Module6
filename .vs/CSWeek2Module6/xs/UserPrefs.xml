@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{52CCE8CB-9E99-45FF-A2C9-6360C74BC3DC}|Default">
+  <MonoDevelop.Ide.ItemProperties.CSWeek2Module6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSWeek2Module6/Program.cs">
+    <Files>
+      <File FileName="CSWeek2Module6/Program.cs" Line="53" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSWeek2Module6" expanded="True">
+            <Node name="CSWeek2Module6" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

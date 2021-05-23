@@ -1,0 +1,12 @@
+/Users/salom11/Desktop/CSWeek2Module6/CSWeek2Module6/obj/Debug/netcoreapp3.1/CSWeek2Module6.csprojAssemblyReference.cache
+/Users/salom11/Desktop/CSWeek2Module6/CSWeek2Module6/obj/Debug/netcoreapp3.1/CSWeek2Module6.AssemblyInfoInputs.cache
+/Users/salom11/Desktop/CSWeek2Module6/CSWeek2Module6/obj/Debug/netcoreapp3.1/CSWeek2Module6.AssemblyInfo.cs
+/Users/salom11/Desktop/CSWeek2Module6/CSWeek2Module6/obj/Debug/netcoreapp3.1/CSWeek2Module6.csproj.CoreCompileInputs.cache
+/Users/salom11/Desktop/CSWeek2Module6/CSWeek2Module6/bin/Debug/netcoreapp3.1/CSWeek2Module6.deps.json
+/Users/salom11/Desktop/CSWeek2Module6/CSWeek2Module6/bin/Debug/netcoreapp3.1/CSWeek2Module6.runtimeconfig.json
+/Users/salom11/Desktop/CSWeek2Module6/CSWeek2Module6/bin/Debug/netcoreapp3.1/CSWeek2Module6.runtimeconfig.dev.json
+/Users/salom11/Desktop/CSWeek2Module6/CSWeek2Module6/bin/Debug/netcoreapp3.1/CSWeek2Module6.dll
+/Users/salom11/Desktop/CSWeek2Module6/CSWeek2Module6/bin/Debug/netcoreapp3.1/CSWeek2Module6.pdb
+/Users/salom11/Desktop/CSWeek2Module6/CSWeek2Module6/obj/Debug/netcoreapp3.1/CSWeek2Module6.dll
+/Users/salom11/Desktop/CSWeek2Module6/CSWeek2Module6/obj/Debug/netcoreapp3.1/CSWeek2Module6.pdb
+/Users/salom11/Desktop/CSWeek2Module6/CSWeek2Module6/obj/Debug/netcoreapp3.1/CSWeek2Module6.genruntimeconfig.cache
